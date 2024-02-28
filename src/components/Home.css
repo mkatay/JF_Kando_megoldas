@@ -1,0 +1,27 @@
+.home-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+h1 {
+  color: vat(--color1);
+}
+p {
+  color: #777;
+}
+
+.featured-products h2 {
+  color: var(--color1);
+  margin-bottom: 10px;
+}
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+  color: #555;
+  border-top: 1px solid gray;
+}

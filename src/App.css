@@ -1,0 +1,18 @@
+:root{
+  --color1:#3498db;
+  --color2:#2ecc71;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+  
+h1,h2{
+  color:var(--color1);
+}
+.about h3 {
+  border-bottom: 4px solid var(--color2);
+
+}
